@@ -9,20 +9,20 @@ PrizeDifferentMenuPtrs:
 	dw PrizeMenuTMsCost
 
 PrizeMenuMon1Entries:
-	db ABRA
-	db VULPIX
-	db WIGGLYTUFF
+	db ALAKAZAM
+	db GENGAR
+	db MR_MIME
 	db "@"
 
 PrizeMenuMon1Cost:
-	coins 230
-	coins 1000
-	coins 2680
+	coins 6500
+	coins 6500
+	coins 9999
 	db "@"
 
 PrizeMenuMon2Entries:
-	db SCYTHER
-	db PINSIR
+	db MACHAMP
+	db GOLEM
 	db PORYGON
 	db "@"
 

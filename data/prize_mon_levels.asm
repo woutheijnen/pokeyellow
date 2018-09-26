@@ -1,8 +1,8 @@
 PrizeMonLevelDictionary:
-	db ABRA,15
-	db VULPIX,18
-	db WIGGLYTUFF,22
+	db ALAKAZAM,57
+	db GENGAR,57
+	db MR_MIME,49
 
-	db SCYTHER,30
-	db PINSIR,30
-	db PORYGON,26
+	db MACHAMP,57
+	db GOLEM,57
+	db PORYGON,49
