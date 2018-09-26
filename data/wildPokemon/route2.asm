@@ -1,14 +1,14 @@
 Route2Mons:
 	db $19
-	db 3,RATTATA
-	db 3,PIDGEY
-	db 4,RATTATA
-	db 4,NIDORAN_M
-	db 4,NIDORAN_F
-	db 5,PIDGEY
-	db 6,NIDORAN_M
-	db 6,NIDORAN_F
-	db 7,PIDGEY
-	db 7,PIDGEY
+	db 6,RATTATA
+	db 6,PIDGEY
+	db 8,CATERPIE
+	db 8,NIDORAN_M
+	db 8,NIDORAN_F
+	db 9,WEEDLE
+	db 11,METAPOD
+	db 11,KAKUNA
+	db 13,BUTTERFREE
+	db 13,MR_MIME
 	db $00
 

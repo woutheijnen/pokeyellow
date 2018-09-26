@@ -1,14 +1,14 @@
 IslandMons1:
 	db $0F
-	db 18,ZUBAT
-	db 25,KRABBY
-	db 27,KRABBY
-	db 27,ZUBAT
-	db 36,ZUBAT
-	db 28,SLOWPOKE
-	db 30,SLOWPOKE
-	db 9,ZUBAT
-	db 27,GOLBAT
-	db 36,GOLBAT
+	db 34,ZUBAT
+	db 47,KRABBY
+	db 51,KINGLER
+	db 51,GOLBAT
+	db 68,GOLBAT
+	db 53,SLOWPOKE
+	db 57,SLOWBRO
+	db 17,ZUBAT
+	db 51,GOLBAT
+	db 68,GOLBAT
 	db $00
 

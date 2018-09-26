@@ -1,14 +1,14 @@
 TowerMons7:
 	db $14
-	db 24,GASTLY
-	db 25,GASTLY
-	db 26,GASTLY
-	db 27,GASTLY
-	db 28,GASTLY
-	db 23,GASTLY
-	db 24,CUBONE
-	db 29,GASTLY
-	db 24,HAUNTER
-	db 29,HAUNTER
+	db 45,GASTLY
+	db 47,HAUNTER
+	db 49,GENGAR
+	db 51,GENGAR
+	db 53,GENGAR
+	db 43,GENGAR
+	db 45,CUBONE
+	db 55,GENGAR
+	db 45,GENGAR
+	db 55,GENGAR
 	db $00
 

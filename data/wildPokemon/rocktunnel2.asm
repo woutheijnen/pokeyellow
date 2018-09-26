@@ -1,14 +1,14 @@
 TunnelMonsB2:
 	db $0F
-	db 20,ZUBAT
-	db 17,GEODUDE
-	db 18,MACHOP
-	db 21,ZUBAT
-	db 22,ZUBAT
-	db 21,GEODUDE
-	db 20,MACHOP
-	db 14,ONIX
-	db 18,ONIX
-	db 22,ONIX
+	db 38,ZUBAT
+	db 32,GEODUDE
+	db 34,MACHOP
+	db 40,GOLBAT
+	db 42,GOLBAT
+	db 40,GRAVELER
+	db 38,MACHOKE
+	db 26,ONIX
+	db 34,ONIX
+	db 42,ONIX
 	db $00
 
