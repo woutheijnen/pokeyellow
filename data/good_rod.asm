@@ -1,3 +1,3 @@
 GoodRodMons:
-	db 10,GOLDEEN
-	db 10,POLIWAG
+	db 19,GOLDEEN
+	db 19,POLIWAG
